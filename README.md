@@ -35,3 +35,6 @@
 
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [Learn Git](https://www.codecademy.com/learn/learn-git)
+- [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
