@@ -41,7 +41,12 @@
 - [Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
 - [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+- [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)
+- [Spreadsheet Basics](https://www.datacamp.com/courses/spreadsheet-basics)
+- [Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
 
 ### Good Tunes
 
 - [International Departures](https://www.mixcloud.com/internationaldepartures)
+- [ABGT](https://www.aboveandbeyond.nu/abgt)
