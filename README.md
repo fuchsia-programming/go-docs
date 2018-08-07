@@ -24,6 +24,8 @@
 - [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+- [JSON](https://www.json.org/)
+- [XML](https://developer.mozilla.org/en-US/docs/XML_introduction)
 - [YAML](http://yaml.org)
 - [Git](https://git-scm.com)
 - [GitHub Desktop](https://desktop.github.com)
