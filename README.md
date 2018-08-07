@@ -29,6 +29,7 @@
 - [YAML](http://yaml.org)
 - [Git](https://git-scm.com)
 - [GitHub Desktop](https://desktop.github.com)
+- [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
 
 ### Free short courses
 
