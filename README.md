@@ -38,3 +38,10 @@
 - [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [SQL: Table Transformation](https://www.codecademy.com/learn/sql-table-transformation)
+- [SQL: Analyzing Business Metrics](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
+
+### Good Tunes
+
+- [International Departures](https://www.mixcloud.com/internationaldepartures)
