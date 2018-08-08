@@ -1,5 +1,9 @@
 # go-docs
 
+First up, if you would like to add to this documentation, GitHub uses [Markdown](https://daringfireball.net/projects/markdown) and here's a great 3 minute [GitHub guide](https://guides.github.com/features/mastering-markdown) on mastering markdown.
+The best practice way to add to this documenatation is to [fork](https://help.github.com/articles/fork-a-repo) and create a [pull request](https://help.github.com/articles/creating-a-pull-request).
+The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop.github.com).
+
 ### Hosting
 
 - [Heroku](https://www.heroku.com)
@@ -25,7 +29,9 @@
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 - [JSON](https://www.json.org/)
+- [Open Graph protocol](http://ogp.me)
 - [XML](https://developer.mozilla.org/en-US/docs/XML_introduction)
+- [XML Schema](https://en.wikipedia.org/wiki/XML_schema)
 - [YAML](http://yaml.org)
 - [Git](https://git-scm.com)
 - [GitHub Desktop](https://desktop.github.com)
@@ -33,9 +39,14 @@
 
 ### Free short courses
 
+- [Welcome to Codecademy!](https://www.codecademy.com/learn/welcome-to-codecademy) - We recommend starting with this course
+- [Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [Make a Website](https://www.codecademy.com/learn/make-a-website)
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [Learn Git](https://www.codecademy.com/learn/learn-git)
 - [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [Deploy a Website](https://www.codecademy.com/learn/deploy-a-website)
 - [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
 - [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [Learn SQL](https://www.codecademy.com/learn/learn-sql)
@@ -45,6 +56,9 @@
 - [Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)
 - [Spreadsheet Basics](https://www.datacamp.com/courses/spreadsheet-basics)
 - [Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
+- [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+- [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+- [Learn Sass](https://www.codecademy.com/learn/learn-sass)
 
 ### Good Tunes
 
