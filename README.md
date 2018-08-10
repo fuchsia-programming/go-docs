@@ -37,7 +37,7 @@ The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop
 - [GitHub Desktop](https://desktop.github.com)
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
 
-#### Ruby
+### Ruby
 
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Ruby Best Practice](https://github.com/rubocop-hq/ruby-style-guide)
