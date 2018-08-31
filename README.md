@@ -16,10 +16,11 @@ The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop
 - [govendor](https://github.com/kardianos/govendor)
 - [Gin](https://github.com/gin-gonic/gin)
 - [GoLand](https://www.jetbrains.com/go)
+- [Colly](http://go-colly.org)
 
 ### Database
 
-- [Postgres](https://www.postgresql.org/)
+- [Postgres](https://www.postgresql.org)
 - [Heroku Dev Center](https://devcenter.heroku.com/categories/data-management)
 
 
@@ -28,6 +29,7 @@ The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop
 - [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+- [jQuery](https://jquery.com)
 - [JSON](https://www.json.org/)
 - [Open Graph protocol](http://ogp.me)
 - [XML](https://developer.mozilla.org/en-US/docs/XML_introduction)
@@ -36,6 +38,7 @@ The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop
 - [Git](https://git-scm.com)
 - [GitHub Desktop](https://desktop.github.com)
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
+- [RexEgg - The world's most tyrannosaurical regex tutorial](https://www.rexegg.com)
 
 ### Ruby
 
