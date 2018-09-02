@@ -18,6 +18,7 @@ The easiest way to start using GitHub is to use [GitHub Desktop](https://desktop
 - [GoLand](https://www.jetbrains.com/go)
 - [Colly](http://go-colly.org)
 - [que-go](https://github.com/bgentry/que-go)
+- [pgx](https://github.com/jackc/pgx)
 
 ### Database
 
